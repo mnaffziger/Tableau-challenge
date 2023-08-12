@@ -1,5 +1,6 @@
 # OS files to ignore
 .DS_Store
+citibike_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
